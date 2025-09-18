@@ -1,17 +1,15 @@
 ```zsh
-> cat intro.md
+> cat profile.md
 ```
 
 <img align="left" src="https://media1.tenor.com/m/AdJEa8lfHdUAAAAd/flareon.gif" width="320" />
 
-```java
+```html
 glareons@github
+
+# 👋 Hi! im Glareon
 Self-taught programmer and cybersecurity student.
-```
 
-```zsh
-cat languages.md
-
-```java
-Java, PHP, Python ~~Rust~~
+## Languages:
+Java, PHP, Python, ~~Rust~~
 ```
