@@ -4,7 +4,7 @@
 
 <img align="left" src="https://media1.tenor.com/m/AdJEa8lfHdUAAAAd/flareon.gif" width="320" />
 
-```html
+```php
 glareons@github
 
 # 👋 Hi! im Glareon
