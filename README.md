@@ -2,11 +2,15 @@
 
 # 👋 Hi! im ✧*̥˚ Glareon *̥˚✧
 
+## Current Projects
+- 🌌 Pulsar - 1.8.x Advanced minecraft modification utility.
+- 💬 ChatApp - A simple cybersecurity project as a practice to writing secure applications and authentication.
+- 🛡️ Aegis - 1.8.x Minecraft anticheat prioritizing flaw and movement detection.
+<br>
+
 ## Primary Skills
 <div align="center">
-  <u>
-    What i prefer and use on a daily basis.
-  </u>
+  What i prefer and use on a daily basis.
 </div>
 <br>
 
@@ -14,9 +18,7 @@
 
 ## Secondary Skills
 <div align="center">
-  <u>
-    What i wan't to learn and use more often.
-  </u>
+  What i wan't to learn and use more often.
 </div>
 <br>
 
@@ -24,9 +26,7 @@
 
 ## Other Skills
 <div align="center">
-  <u>
-    What i have learned throughout courses or by curiosity, but did not prefer or use much.
-  </u>
+  What i have learned throughout courses or by curiosity, but did not prefer or use much.
 </div>
 <br>
 
