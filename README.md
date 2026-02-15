@@ -9,7 +9,12 @@
 # 👋 Hi! im Glareon
 Self-taught programmer and cybersecurity student.
 
-## Languages:
-Java, PHP, Python, ~~Rust~~
+## Current Stack
+Java, IntelliJ-IDEA
 
+##
+Rust, Zed
+
+## Bygone Stack
+PHP, Python, C, C++, C#, JavaScript, HTML, CSS, VisualStudioCode,Eclipse
 ```
