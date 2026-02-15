@@ -13,4 +13,4 @@ and cybersecurity student
 ├ 🧪 Experimental: Rust, Zed.
 ╰ ☠️ Bygone: PHP, Python, C, C++, C#, HTML, VSCode, Eclipse.
 ```
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=75&section=footer" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=90&section=footer" />
