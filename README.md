@@ -1,6 +1,3 @@
-```zsh
-> cat profile.md
-```
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontAlignY=38&fontColor=ffffff&animation=fadeIn" />
 
 # 👋 Hi! im ✧*̥˚ Glareon *̥˚✧
@@ -16,3 +13,4 @@ and cybersecurity student
 ├ 🧪 Experimental: Rust, Zed.
 ╰ ☠️ Bygone: PHP, Python, C, C++, C#, HTML, VSCode, Eclipse.
 ```
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=footer" />
