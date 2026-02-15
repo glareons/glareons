@@ -9,12 +9,12 @@
 # 👋 Hi! im Glareon
 Self-taught programmer and cybersecurity student.
 
-## Current Stack
+# ☕ Current Stack
 Java, IntelliJ-IDEA
 
-##
+# 🧪 Experimenting Stack
 Rust, Zed
 
-## Bygone Stack
+# ☠️ Bygone Stack
 PHP, Python, C, C++, C#, JavaScript, HTML, CSS, VisualStudioCode,Eclipse
 ```
