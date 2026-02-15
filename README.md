@@ -3,18 +3,33 @@
 # 👋 Hi! im ✧*̥˚ Glareon *̥˚✧
 
 ## Primary Skills
-<div align="center"><u>What i prefer and use on a daily basis.</u></div>
+<div align="center">
+  <u>
+    What i prefer and use on a daily basis.
+  </u>
+</div>
+<br>
 
-[![Primary-Tools](https://skillicons.dev/icons?i=java,idea,linux,arch,windows&theme=dark)](https://skillicons.dev)
+[![Primary-Skills](https://skillicons.dev/icons?i=java,idea,linux,arch,windows&theme=dark)](https://skillicons.dev)
 
 ## Secondary Skills
-<div align="center"><u>What i wan't to learn and use more often.</u></div>
+<div align="center">
+  <u>
+    What i wan't to learn and use more often.
+  </u>
+</div>
+<br>
 
-[![Secondary-Tools](https://skillicons.dev/icons?i=rust,zed,&theme=dark)](https://skillicons.dev)
+[![Secondary-Skills](https://skillicons.dev/icons?i=rust,zed,&theme=dark)](https://skillicons.dev)
 
 ## Other Skills
-<div align="center"><u>What i have learned throughout courses or by curiosity, but did not prefer or use much.</u></div>
+<div align="center">
+  <u>
+    What i have learned throughout courses or by curiosity, but did not prefer or use much.
+  </u>
+</div>
+<br>
 
-[![Secondary-Tools](https://skillicons.dev/icons?i=html,css,php,javascript,python,c,cpp,cs,mysql,pycharm,vscode,raspberrypi,kali,eclipse&theme=dark)](https://skillicons.dev)
+[![Other-Skills](https://skillicons.dev/icons?i=html,css,php,javascript,python,c,cpp,cs,mysql,pycharm,vscode,raspberrypi,kali,eclipse&theme=dark)](https://skillicons.dev)
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=100&section=footer" />
