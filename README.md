@@ -5,7 +5,7 @@
 ## Current Projects
 - 🌌 Pulsar - 1.8.x Advanced minecraft modification utility.
 - 💬 ChatApp - A simple cybersecurity project as a practice to writing secure applications and authentication.
-- 🛡️ Aegis - 1.8.x Minecraft anticheat prioritizing flaw and movement detection.
+- 🌟 GlareUI - A tiny abstract UI framework
 <br>
 
 ## Primary Skills
