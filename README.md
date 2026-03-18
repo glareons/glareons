@@ -4,8 +4,6 @@
 
 ## Current Projects
 - 🌌 Pulsar - 1.8.x Advanced minecraft modification utility.
-- 💬 ChatApp - A simple cybersecurity project as a practice to writing secure applications and authentication.
-- 🌟 GlareUI - A tiny abstract UI framework
 <br>
 
 ## Primary Skills
@@ -21,7 +19,7 @@
 
 ## Learning Skills
 <div align="center">
-  What i wan't to learn and use more often.
+  What i wan't to learn or use more often.
 </div>
 <br>
 
